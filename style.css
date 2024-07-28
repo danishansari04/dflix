@@ -1,0 +1,38 @@
+body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            border: 1px solid #ccc;
+            padding: 20px;
+            background-color: white;
+            display: inline-block;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .update-message {
+            color: #333;
+            font-size: 22px;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+        .instruction {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+        .app-links a {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .google-play {
+            background-color: #3bcc55;
+        }
+        .app-store {
+            background-color: #0070c9;
+        }
